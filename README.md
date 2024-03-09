@@ -40,15 +40,15 @@
 <br><br><br>
  <hr/>
 <div align="center">
-    <img src="https://s9.gifyu.com/images/SUhTy.gif" />
-    <br/>
+    <img src="https://s9.gifyu.com/images/SUhU3.gif" />
+    <br><br>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,bootstrap,tailwind,react,nextjs,nodejs,flask,mysql,vite" />
    <hr/>
     </div>
 
 <div align="center">
    <hr/>
-    <img src="https://s9.gifyu.com/images/SUhwM.gif" />
+    <img src="https://s9.gifyu.com/images/SUhU4.gif" />
     <br/>
     <img src="https://skillicons.dev/icons?i=webstorm,phpstorm,pycharm,vscode,github,git,figma,postman,npm,windows" /><br>
    
@@ -60,7 +60,7 @@
     <summary><b>More Details 📃</b></summary>
 <br/>
 <div align="center">
-     <img src="https://s9.gifyu.com/images/SUh3s.gif" />
+     <img src="https://s9.gifyu.com/images/SUhVM.gif" />
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -69,7 +69,7 @@
 <hr/>
 
 <div align=center>
-<img src="https://s9.gifyu.com/images/SUh3N.gif" />
+<img src="https://s9.gifyu.com/images/SUhVp.gif" />
     <br/><br/><br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=muhammadpadanta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=395 height='154' src="https://github-readme-stats.vercel.app/api?username=muhammadpadanta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
