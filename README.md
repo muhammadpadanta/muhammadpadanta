@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,npm" /><br>
 </div>
 
-<br/>
+
 <hr/>
 
 <div align="center">
