@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm;Muhammad+Padanta+Tarigan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Muhammad+Padanta;My+friends+call+me+Danta" />
 </h1>
 
 <h3 align="center">🇮🇩 An eager learner from Indonesia Venturing into the exciting world of web development with passion 🇮🇩</h3>
