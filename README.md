@@ -9,12 +9,18 @@
 <br/>
 
 <div align="center">
-<p>🔭 currently Studying on **Batam State Polytechnic**</p>
-<p>🌱 I’m currently learning **Tailwind, Javascript, Laravel**</p>
-💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
-<p>⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee.**</p>
- </div>
  
+ 🔭 I’m currently working on **Batam State Polytechnic**
+ 
+ 🌱 I’m currently learning **Tailwind, Javascript, Laravel**
+
+💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
+
+⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee.**
+
+ </div>
+
+
 <div align="center"> 
   <a href="mailto:mpadanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
