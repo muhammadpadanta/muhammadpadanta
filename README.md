@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,drawio" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,draw.io" /><br>
 </div>
 
 <br/>
