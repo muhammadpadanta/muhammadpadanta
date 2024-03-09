@@ -79,6 +79,6 @@
    
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=muhammadpadanta.github.io)](https://github.com/muhammadpadanta/muhammadpadanta.github.io)
+
 
 <br/>
