@@ -85,7 +85,9 @@
 <details> 
     <summary><b>Buy me some Coffee (IDR) ☕</b></summary>
 <div align="center">
-<a href='https://trakteer.id/muhammad_padanta/tip' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif' border='0' alt='Buy Me a Coffee (IDR)' /></a>
+<a href='https://trakteer.id/muhammad_padanta/tip' target='_blank'><img height='400' style='border:0px;height:400px;' src='https://s9.gifyu.com/images/SUhMB.gif' border='0' alt='Buy Me a Coffee (IDR)' /></a>
+
+
 </details> 
    
 </div>
