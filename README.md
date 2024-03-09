@@ -73,6 +73,7 @@
 
 <br/><br/>
 
+<img align=right src="https://komarev.com/ghpvc/?username=frhnn772&label=Github+Views&color=lightgrey&style=for-the-badge">
 <hr/>
 
 <br/>
