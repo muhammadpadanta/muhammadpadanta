@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7" />
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=0A0A0A&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=FFA500&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">🇮🇩 An eager learner from Indonesia Venturing into the exciting world of web development 🇮🇩</h3>
