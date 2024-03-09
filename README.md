@@ -49,7 +49,7 @@
 <div align="center">
    <hr/>
     <img src="https://s9.gifyu.com/images/SUhU4.gif" />
-    <br/>
+    <br><br>
     <img src="https://skillicons.dev/icons?i=webstorm,phpstorm,pycharm,vscode,github,git,figma,postman,npm,windows" /><br>
    
 </div>
