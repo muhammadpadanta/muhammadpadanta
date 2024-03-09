@@ -43,12 +43,15 @@
     <img src="https://s9.gifyu.com/images/SUhTy.gif" />
     <br/>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,bootstrap,tailwind,react,nextjs,nodejs,flask,mysql,vite" />
+   <hr/>
     </div>
-  <br><br><br>
+
 <div align="center">
+   <hr/>
     <img src="https://s9.gifyu.com/images/SUhwM.gif" />
     <br/>
     <img src="https://skillicons.dev/icons?i=webstorm,phpstorm,pycharm,vscode,github,git,figma,postman,npm,windows" /><br>
+   
 </div>
 
 <hr/>
