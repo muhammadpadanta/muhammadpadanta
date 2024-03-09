@@ -35,14 +35,13 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
-<br/>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,bootstrap,tailwind,react,nextjs,nodejs,flask,mysql" />
     </div>
-    
+<br/>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <br/>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,npm" /><br>
 </div>
 
