@@ -53,9 +53,11 @@
     <summary><b>More Details 📃</b></summary>
 <br/>
 <div align="center">
+    
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
+  <img align=center src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
   <br/><br/><br/>
 </div>
 
@@ -63,7 +65,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<img align=center src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=muhammadpadanta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
