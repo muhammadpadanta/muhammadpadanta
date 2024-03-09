@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Batam State Polytechnic**
+ 🔭 I’m currently studying on **Batam State Polytechnic**
  
  🌱 I’m currently learning **Tailwind, Javascript, Laravel**
 
