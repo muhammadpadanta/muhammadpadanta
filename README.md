@@ -16,7 +16,7 @@
 
 💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
 
-⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee, the inventor of the World Wide Web.**
+⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee.**
 
  </div>
  
@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<h2 align="center">🧩 Languages-Frameworks 🧩</h2>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,bootstrap,tailwind,react,nextjs,nodejs,flask,mysql" />
     </div>
