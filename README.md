@@ -49,6 +49,7 @@
 
 <hr/>
 
+<details> 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -73,7 +74,7 @@
 <hr/>
 
 <br/>
-
+</details> 
 <div align="center">
 <a href='https://trakteer.id/muhammad_padanta/tip' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee (IDR)' /></a>
    
