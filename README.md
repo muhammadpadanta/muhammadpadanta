@@ -83,7 +83,7 @@
 </details> 
 
 <details> 
-    <summary><b>Buy me some Coffee (IDR) ☕</b></summary>
+    <summary><b>Buy me some Coffee ☕</b></summary>
 <div align="center">
 <a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'><img height='400' style='border:0px;height:400px;' src='https://s9.gifyu.com/images/SUhMB.gif' border='0' alt='Buy Me a Coffee (IDR)' /></a>
 </details> 
