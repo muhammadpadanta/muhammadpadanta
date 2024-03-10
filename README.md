@@ -13,7 +13,7 @@
  
  🔭 I’m currently studying on **Batam State Polytechnic**
  
- 🌱 I’m currently learning **Tailwind, Javascript, Laravel**
+ 🌱 I’m currently learning **Tailwind, React, Laravel**
 
 💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
 
