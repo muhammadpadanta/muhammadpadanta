@@ -26,9 +26,11 @@
 
 </br></br>
 
+ <hr/>
 <div align="center">
-   <p>Mail, Discord, And my Portfolio &#x1F447;</p>
-   </br>
+   <p><strong>Mail</strong>, <strong>Discord</strong>, And my<strong> Portfolio</strong> &#x1F447;</p>
+
+   
   <a href="mailto:mpadanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -41,7 +43,6 @@
 </div>
    
 
-<br><br><br>
  <hr/>
 <div align="center">
     <img src="https://s9.gifyu.com/images/SUhU3.gif" />
