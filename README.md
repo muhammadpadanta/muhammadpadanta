@@ -10,7 +10,7 @@
 <br><br>
 
 <div align="center">
- <a href="" target="_blank">
+ <a>
     <img src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
    </a>
 </br></br></br>
