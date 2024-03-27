@@ -24,8 +24,11 @@
 
  </div>
 
+</br></br>
 
-<div align="center"> 
+<div align="center">
+   <p>Mail, Discord, And my Portfolio &#x1F447;</p>
+   </br>
   <a href="mailto:mpadanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -35,8 +38,8 @@
   <a href="https://muhammadpadanta.github.io/Nextjs_Portfolio/home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    
 </div>
+   
 
 <br><br><br>
  <hr/>
