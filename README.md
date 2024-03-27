@@ -29,7 +29,7 @@
   <a href="https://discord.com/users/389223384048992266" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://muhammadpadanta.github.io/Nextjs_Portfolio/" target="_blank">
+  <a href="https://muhammadpadanta.github.io/Nextjs_Portfolio/home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="" target="_blank">
