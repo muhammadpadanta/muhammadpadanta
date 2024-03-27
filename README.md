@@ -10,7 +10,10 @@
 <br><br>
 
 <div align="center">
- 
+ <a href="" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
+   </a>
+</br></br></br>
  🔭 I’m currently studying on **Batam State Polytechnic**
  
  🌱 I’m currently learning **Tailwind, React, Laravel**
@@ -32,9 +35,7 @@
   <a href="https://muhammadpadanta.github.io/Nextjs_Portfolio/home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
-   </a>
+    
 </div>
 
 <br><br><br>
