@@ -1,24 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7" />
-
+<img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7" />
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=F4B400&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">🇮🇩 An eager learner from Indonesia Venturing into the exciting world of web development 🇮🇩</h3>
 <hr/>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img  align="left" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif" />
+
+
 <br><br>
 
 <div align="center">
  <a>
-    <img src="https://komarev.com/ghpvc/?username=muhammadpadanta&label=Github+Views&color=lightgrey&style=for-the-badge">
+    
    </a>
 </br></br></br>
  🔭 I’m currently studying on **Batam State Polytechnic**
  
  🌱 I’m currently learning **Tailwind, React, Laravel**
 
-💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
+💬 Ask me about **anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
 
 ⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee.**
 
@@ -43,21 +44,8 @@
 </div>
    
 
- <hr/>
-<div align="center">
-    <img src="https://s9.gifyu.com/images/SUhU3.gif" />
-    <br><br>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,bootstrap,tailwind,react,nextjs,nodejs,flask,mysql,vite" />
-   <hr/>
-    </div>
 
-<div align="center">
-   <hr/>
-    <img src="https://s9.gifyu.com/images/SUhU4.gif" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=webstorm,phpstorm,pycharm,vscode,github,git,figma,postman,npm,windows" /><br>
-   
-</div>
+
 
 <hr/>
 
