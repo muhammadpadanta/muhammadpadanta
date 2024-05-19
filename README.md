@@ -38,20 +38,22 @@
   <a href="mailto:mpadanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-<a href="mailto:mpadanta@gmail.com">
+<a href="https://www.facebook.com/MuhammadPadantaTarigan">
     <img src="https://img.shields.io/badge/Muhammad Padanta Tarigan-333333?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="mailto:mpadanta@gmail.com">
+  <a href="https://www.youtube.com/@QuantumDroid">
     <img src="https://img.shields.io/badge/QuantumDroid-333333?style=for-the-badge&logo=youtube&logoColor=red" />
-  </a>
-
-  
-  <a href="https://discord.com/users/389223384048992266" target="_blank">
-    <img src="https://img.shields.io/badge/PixelDino-333333?style=for-the-badge&logo=discord&logoColor=cyan" />
   </a>
   <a href="https://muhammadpadanta.vercel.app/home" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=orange" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   <a href="https://www.linkedin.com/in/muhammadpadanta">
+    <img src="https://img.shields.io/badge/Muhammad Padanta Tarigan-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+  <a href="https://discord.com/users/389223384048992266" target="_blank">
+    <img src="https://img.shields.io/badge/PixelDino-333333?style=for-the-badge&logo=discord&logoColor=cyan" />
+  </a>
+  
   </br></br></br></br></br>
 </div>
    <hr/>  
