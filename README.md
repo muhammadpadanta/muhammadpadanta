@@ -15,7 +15,7 @@
     
    </a>
 </br>
- 🔭 I’m currently studying on **Batam State Polytechnic**
+ 🔭 I’m currently studying on **State Polytechnic Of Batam**
  
  🌱 I’m currently learning **Tailwind, React, Laravel**
 
