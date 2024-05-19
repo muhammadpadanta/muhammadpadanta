@@ -14,7 +14,7 @@
  <a>
     
    </a>
-</br></br></br>
+</br>
  🔭 I’m currently studying on **Batam State Polytechnic**
  
  🌱 I’m currently learning **Tailwind, React, Laravel**
@@ -28,28 +28,57 @@
 </br></br>
 
  <hr/>
+ 
 <div align="center">
-   <p><strong>Mail</strong>, <strong>Discord</strong>, And my<strong> Portfolio</strong> &#x1F447;</p>
+    <img  align="right" src="https://s6.ezgif.com/tmp/ezgif-6-8d0ee0d3a8.gif" />
+   </br></br></br></br></br></br></br>
+   <p><strong>📍 React me Out 📍</strong></p>
 
-   
+  
   <a href="mailto:mpadanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+<a href="mailto:mpadanta@gmail.com">
+    <img src="https://img.shields.io/badge/Muhammad Padanta Tarigan-333333?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="mailto:mpadanta@gmail.com">
+    <img src="https://img.shields.io/badge/QuantumDroid-333333?style=for-the-badge&logo=youtube&logoColor=red" />
+  </a>
+
+  
   <a href="https://discord.com/users/389223384048992266" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/PixelDino-333333?style=for-the-badge&logo=discord&logoColor=cyan" />
   </a>
   <a href="https://muhammadpadanta.vercel.app/home" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=orange" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  </br></br></br></br></br>
 </div>
-   
+   <hr/>  
+
+<img  align="left" src="https://i.pinimg.com/originals/76/ac/f2/76acf2613cd00198554521e2784f59ad.gif" />
+</br></br></br>
+<div align="center">
+ <a>
+    
+   </a>
+</br>
+
+
+⚡ **My Current Project** ⚡
+
+<img align="center" alt="Coding" width="400" src="https://s9.gifyu.com/images/SV0cK.png">
+ </div>
+</br></br></br>
+
+ <hr/>
 
 
 
 
-<hr/>
 
-<details> 
+<div>
+   <details> 
     <summary><b>More Details 📃</b></summary>
 <br/>
 <div align="center">
@@ -83,4 +112,7 @@
    
 </div>
 <br/>
-<hr/>
+
+</div>
+
+
