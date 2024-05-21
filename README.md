@@ -32,7 +32,7 @@
 <div align="center">
     <img  align="right" src="https://s12.gifyu.com/images/SfECi.gif" />
    </br></br></br></br></br></br></br>
-   <p><strong>📍 React me Out 📍</strong></p>
+   <p><strong>📍 Reach me Out 📍</strong></p>
 
   
   <a href="mailto:mpadanta@gmail.com">
