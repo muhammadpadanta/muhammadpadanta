@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -63,16 +63,16 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadpadanta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
+<a href="https://github.com/muhammadpadanta/1st-symphony">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
+<a href="https://github.com/muhammadpadanta/1st-symphony-laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st_symphony_laravel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st_symphony_laravel" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
