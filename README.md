@@ -1,79 +1,83 @@
-<img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7" />
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=F4B400&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
-</h1>
+# Hello there 👋
 
-<h3 align="center">🇮🇩 An eager learner from Indonesia Venturing into the exciting world of web development 🇮🇩</h3>
-<hr/>
-<img  align="left" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
-<br><br>
-
-<div align="center">
- <a>
-    
-   </a>
-</br>
- 🔭 I’m currently studying on **State Polytechnic Of Batam**
- 
- 🌱 I’m currently learning **Tailwind, React, Laravel**
-
-💬 Ask me about **anything [here](https://github.com/muhammadpadanta/muhammadpadanta/issues)**
-
-⚡ Fun fact **The world's first website went live on August 6, 1991. It was created by Tim Berners-Lee.**
-
- </div>
-
-</br></br></br>
-
- <hr/>
- 
-<div align="center">
-    <img  align="right" src="https://s12.gifyu.com/images/SfECi.gif" />
-   </br></br></br></br></br></br></br>
-   <p><strong>📍 Reach me Out 📍</strong></p>
-
-  
-  <a href="mailto:mpadanta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<a href="https://www.facebook.com/MuhammadPadantaTarigan">
-    <img src="https://img.shields.io/badge/Muhammad Padanta Tarigan-333333?style=for-the-badge&logo=facebook" />
-  </a>
-  <a href="https://www.youtube.com/@QuantumDroid">
-    <img src="https://img.shields.io/badge/QuantumDroid-333333?style=for-the-badge&logo=youtube&logoColor=red" />
-  </a>
-  <a href="https://muhammadpadanta.vercel.app/home" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=orange" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-   <a href="https://www.linkedin.com/in/muhammadpadanta">
-    <img src="https://img.shields.io/badge/Muhammad Padanta Tarigan-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
-  </a>
-  <a href="https://discord.com/users/389223384048992266" target="_blank">
-    <img src="https://img.shields.io/badge/PixelDino-333333?style=for-the-badge&logo=discord&logoColor=cyan" />
-  </a>
-  
-  </br></br></br></br></br>
-</div>
-   <hr/>  
-
-<img  align="left" src="https://i.pinimg.com/originals/76/ac/f2/76acf2613cd00198554521e2784f59ad.gif" />
-</br></br></br>
-<div align="center">
- <a>
-    
-   </a>
-</br>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-⚡ **My Current Project** ⚡
+class SoftwareEngineer:
 
-<img align="center" alt="Coding" width="400" src="https://s9.gifyu.com/images/SV0cK.png">
- </div>
-</br></br></br>
+    def __init__(self):
+        self.name = "Muhammad Padanta Tarigan"
+        self.role = "Software Engineer"
+        self.language_spoken = ["id_ID", "en_US"]
 
- <hr/>
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: 
+
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
