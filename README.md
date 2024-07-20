@@ -1,4 +1,6 @@
-# Hello there 👋
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=F4B400&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
+</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -12,7 +14,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Muhammad Padanta Tarigan"
-        self.role = "Software Engineer"
+        self.role = "College Student"
         self.language_spoken = ["id_ID", "en_US"]
 
     def say_hi(self):
@@ -23,10 +25,22 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+
+## 🐍 Snake eating My contri 🐍
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
+
 ## 📝 Blogs
 
-- Personal website and blog: 
+- Personal website and blog:
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/muhammadpadanta/1st-symphony">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
+</a>
+<a href="https://github.com/muhammadpadanta/1st-symphony-laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st_symphony_laravel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st_symphony_laravel" />
+</a>
 
 ## 🔧 Technologies & Tools
 
@@ -65,60 +79,23 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadpadanta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/muhammadpadanta/1st-symphony">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st-symphony&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st-symphony" />
-</a>
-
-<a href="https://github.com/muhammadpadanta/1st-symphony-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadpadanta&repo=1st_symphony_laravel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1st_symphony_laravel" />
-</a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
-
-
-<div>
-   <details> 
-    <summary><b>More Details 📃</b></summary>
-<br/>
-<div align="center">
-     <img src="https://s9.gifyu.com/images/SUhVM.gif" />
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+## 📄 More Details
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="300" src="https://streak-stats.demolab.com/?user=muhammadpadanta&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=muhammadpadanta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-<hr/>
 
-<div align=center>
-<img src="https://s9.gifyu.com/images/SUhVp.gif" />
-    <br/><br/><br/>
-  <img width=390 src="https://streak-stats.demolab.com/?user=muhammadpadanta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=395 height='154' src="https://github-readme-stats.vercel.app/api?username=muhammadpadanta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/>
-<br/><br/>
-<hr/>
-<br/>
-</details> 
 
-<details> 
-    <summary><b>Buy me some Coffee ☕</b></summary>
-<div align="center">
-<a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'><img height='250' width='400' src='https://s9.gifyu.com/images/SUkFj.gif' border='0' alt='Buy Me a Coffee' /></a>
-</details> 
-   
-</div>
-<br/>
 
-</div>
+## ☕ Pass me some coffee  :)
+<a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'><img src='https://camo.githubusercontent.com/2c6e7262afbee355cd59f269bf3077d4b840f9a36128e8b8b7ff091d251940ae/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67' border='0' alt='Buy Me a Coffee' width="200" height="50" /></a>
+
 
 
