@@ -1,6 +1,7 @@
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=1300&color=F4B400&background=28CFFF00&center=true&vCenter=true&random=false&width=650&height=77&lines=Hi+There+%F0%9F%91%8B;I'm+Muhammad+Padanta+Tarigan;You+Can+Call+Me+Danta." alt="Typing SVG" /></a>
-</h1>
+
+<p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/></p>
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -27,10 +28,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-
-## 🐍 Snake eating My contri 🐍
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
 
 ## 📝 Blogs
 
@@ -99,16 +96,20 @@ me.say_hi()
 
 
 ## 📄 More Details
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: flex-start; align-items: center;">
   <img width="300" src="https://streak-stats.demolab.com/?user=muhammadpadanta&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   <img width="300" height="118" src="https://github-readme-stats.vercel.app/api?username=muhammadpadanta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+   <img alt="snake eating my contributions" width="590" src="https://raw.githubusercontent.com/muhammadpadanta/muhammadpadanta/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 
 ## ☕ Pass me some coffee  :)
 <a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'><img src='https://camo.githubusercontent.com/2c6e7262afbee355cd59f269bf3077d4b840f9a36128e8b8b7ff091d251940ae/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67' border='0' alt='Buy Me a Coffee' width="200" height="50" /></a>
+</br>
 
+<p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/> </p>
 
 
