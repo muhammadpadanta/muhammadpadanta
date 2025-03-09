@@ -28,8 +28,6 @@ me.say_hi()
 ```
 
 
-**Programming Languages:**
-
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -38,12 +36,23 @@ me.say_hi()
 ![Lua](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
 ![Php](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 
+<br/>
 
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs 
 
-
-<a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'><img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlnNXgwOHg5ajBybXM4MmxoZ2l3M2l3ZHM1bDMyamtzZzh2Njc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PaF9a1MpqDzovyqVKj/giphy.gif' width="50" height="50" /></a>
 </br>
 
-<p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/> </p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="1100" />
+    </td>
+    <td align="right">
+      <a href='https://www.buymeacoffee.com/muhammadpadanta' target='_blank'>
+        <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlnNXgwOHg5ajBybXM4MmxoZ2l3M2l3ZHM1bDMyamtzZzh2Njc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PaF9a1MpqDzovyqVKj/giphy.gif' width="50" height="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
