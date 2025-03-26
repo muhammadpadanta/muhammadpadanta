@@ -4,7 +4,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![Youtube: QuantumDroid](https://img.shields.io/badge/-QuantumDroid-white?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/@QuantumDroid)](https://www.youtube.com/@QuantumDroid)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC97zNmtqtXCLSiNQSe3jp3A?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC97zNmtqtXCLSiNQSe3jp3A?style=social)
 ```python
