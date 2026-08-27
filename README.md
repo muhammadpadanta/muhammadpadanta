@@ -29,7 +29,6 @@ me.say_hi()
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Lua](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
 
 <br/>
 
