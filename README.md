@@ -4,8 +4,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadpadanta.muhammadpadanta7)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC97zNmtqtXCLSiNQSe3jp3A?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC97zNmtqtXCLSiNQSe3jp3A?style=social)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
